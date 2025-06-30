@@ -128,7 +128,3 @@ Cybersecurity Enthusiast & Learner
 🔗 [Portfolio](https://sujaladhikari149.com.np)
 
 ---
-
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
